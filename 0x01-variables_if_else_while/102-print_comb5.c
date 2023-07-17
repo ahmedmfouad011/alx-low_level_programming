@@ -2,7 +2,6 @@
 
 /**
  * main - entry point
- *
  * Description: write a program that prints all possible
  * differnet cobinations of two digits
  * Return: 0
