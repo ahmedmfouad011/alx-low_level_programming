@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - Entry point
  * Description: write a program that prints all possible
- * differnet cobinations of two digits
+ * differnet combinations of two digits
  * Return: 0
 */
 
@@ -11,7 +11,7 @@ int main(void)
 {
 	int firstDigit = 0, seconDigit;
 
-	while (fristDigit <= 99)
+	while (firstDigit <= 99)
 	{
 		seconDigit = firstDigit;
 		while (secnoDigit <= 99)
